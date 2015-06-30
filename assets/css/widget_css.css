@@ -1,0 +1,48 @@
+/* MODAL */
+
+#wp_digest_widget_modal_open {
+width:100%;
+}
+
+.wp_digest_widget_email {
+width:100%;
+}
+
+.wp_digest_widget_modal_close {
+    color: #aaaaaa;
+    font-size: 30px;
+    text-decoration: none;
+    position: absolute;
+    right: 5px;
+    top: 0;
+}
+.wp_digest_widget_modal_close:hover {
+    color: #919191;
+}
+.wp_digest_widget_modal {
+    background: #fefefe;
+    border: #333333 solid 1px;
+    border-radius: 5px;
+    width: 360px;
+}
+.wp_digest_widget_modal_body {
+    padding: 20px;
+}
+.wp_digest_widget_modal_header,
+.wp_digest_widget_modal_footer {
+    padding: 10px 20px;
+}
+.wp_digest_widget_modal_header h2 {
+    font-size: 20px;
+}
+.wp_digest_widget_modal_footer {
+    text-align: right;
+}
+
+.wp_digest_widget_email, .wp_digest_widget_duration {
+padding:7px 10px 7px 10px;
+}
+
+.widget_wp_digest_widget p {
+color:#111;
+}
