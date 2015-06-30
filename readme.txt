@@ -24,7 +24,7 @@ The plugin generally requires no customization. Just install and activate the pl
 (However, your website might be designed in a way that makes it incompatible with UserAlerts. If that's the case, let us know and we'll try to find a solution for you.)
 
 
-== PRO Features ==
+PRO Features
 
 - Unlimited e-mail alerts for archives (authors, taxonomies, custom post types) and custom queries (limit: 100 alerts).
 
