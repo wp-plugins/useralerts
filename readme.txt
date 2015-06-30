@@ -26,7 +26,7 @@ The plugin generally requires no customization. Just install and activate the pl
 
 PRO Features
 
-- Unlimited e-mail alerts for archives (authors, taxonomies, custom post types) and custom queries (limit: 100 alerts).
+- Unlimited e-mail alerts for archives (authors, taxonomies, custom post types) and custom queries (free version: 100 alerts limit).
 
 - Allow registered users to list and manage their lists. Simply create a page and insert a shortcode.
 
